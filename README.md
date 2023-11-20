@@ -37,7 +37,11 @@
 <details>
 <summary>Database</summary>
   <ul>
-  
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+<!-- Features -->
+
 ### Key Features <a name="key-features"></a>
 
 - Database
@@ -76,7 +80,8 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-	@@ -240,52 +87,30 @@ Example:
+<!-- CONTRIBUTING -->
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
