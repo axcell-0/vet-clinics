@@ -37,8 +37,7 @@
 <details>
 <summary>Database</summary>
   <ul>
-	@@ -100,137 +45,39 @@ After you're finished please remove all the comments and instructions!
-
+  
 ### Key Features <a name="key-features"></a>
 
 - Database
